@@ -13,10 +13,10 @@
 - <b>Qualys Vulnerability Management (2025)</b>
   - [Check the Authenticity of this Certification](https://drive.google.com/file/d/1SS2aJt97vQTFSvG_CXBfx6OMunXCZtYC/view?usp=sharing)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in C++](https://github.com/Masterathwal/Algorithms-Practice)
 - <b>Voice Controlled Chat-Bot Built in Python (Nexus)</b>
   - [Check Out Here!](https://github.com/Masterathwal/Nexus-) 
 - <b>PowerShell</b>
