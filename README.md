@@ -18,7 +18,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in C++](https://github.com/Masterathwal/Algorithms-Practice)
 - <b>Python</b>
-  - [Check Out Here!](https://github.com/Masterathwal/Nexus-)
+  - [Voice Controlled Chat-Bot Built With APIs](https://github.com/Masterathwal/Nexus-)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
