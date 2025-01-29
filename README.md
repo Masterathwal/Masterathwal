@@ -15,7 +15,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice (Leetcode)</b>
   - [Praciting DS & Algos in C++](https://github.com/Masterathwal/Algorithms-Practice)
 - <b>Python</b>
   - [Voice Controlled Chat-Bot Built With APIs](https://github.com/Masterathwal/Nexus-)
