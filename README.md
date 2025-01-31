@@ -19,6 +19,7 @@
   - [Praciting DS & Algos in C++](https://github.com/Masterathwal/Algorithms-Practice)
 - <b>Python</b>
   - [Voice Controlled Chat-Bot Built With APIs](https://github.com/Masterathwal/Nexus-)
+  - [Open Port Scanner on Single or Multiple Targets](https://github.com/Masterathwal/port-scanner)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
