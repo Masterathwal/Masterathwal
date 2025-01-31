@@ -20,7 +20,7 @@
 - <b>Python</b>
   - [Voice Controlled Chat-Bot Built With APIs](https://github.com/Masterathwal/Nexus-)
   - [Open Port Scanner on Single or Multiple Targets](https://github.com/Masterathwal/port-scanner)
-  
+<!--  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -38,3 +38,4 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+>
