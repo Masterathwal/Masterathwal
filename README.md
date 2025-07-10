@@ -9,7 +9,7 @@
 
 - <b>Google Cyber-Security Professional Certification (2024)</b>
   - [Check the Authenticity of this Certification](https://www.linkedin.com/in/sukrityathwal/details/certifications)
-- <b>TCM Security Practical Junior Penetration Tester (PJPT) (Expected 06/25)</b>
+- <b>TCM Security Practical Junior Penetration Tester (PJPT) (Expected 09/25)</b>
 - <b>Qualys Vulnerability Management (2025)</b>
   - [Check the Authenticity of this Certification](https://drive.google.com/file/d/1SS2aJt97vQTFSvG_CXBfx6OMunXCZtYC/view?usp=sharing)
 
